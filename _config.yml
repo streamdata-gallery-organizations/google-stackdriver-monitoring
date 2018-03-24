@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-stackdriver-monitoring-api.api.streamdata.gallery
+title: Streamdata Gallery Google Stackdriver Monitoring API
+url: google-stackdriver-monitoring-api.streamdata.gallery
 tag: Google Stackdriver Monitoring API
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-stackdriver-monitoring-api
 github_branch: master
 collections:
