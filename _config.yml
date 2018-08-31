@@ -4,7 +4,7 @@ url: google-stackdriver-monitoring.streamdata.gallery
 tag: Google Stackdriver Monitoring
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: google-stackdriver-monitoring
 github_branch: master
 collections:
